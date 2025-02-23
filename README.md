@@ -1,29 +1,18 @@
 # A Conversation about Applied AI in Sport Management
 
-This repository contains resources for the talk "Applied AI in Sport Management," which explores the practical applications of artificial intelligence tools and technologies in sport management projects.
+## Overview
 
-## 🎯 Overview
+This repository contains resources for the talk "Applied AI in Sport Management," which explores the use of AI in sport management. It aims to support the sport management community in discovering practical and accessible ways to integrate AI tools and applications into their workflows.
 
-This talk provides a comprehensive framework for understanding and implementing AI tools in sport management, covering both open-source and commercial applications. The content is structured to help sport management professionals and researchers effectively integrate AI into their workflows.
-
-## 📚 Repository Structure
-
-```
-AIConversation/
-├── presentations/       # Presentation slides and materials
-├── examples/           # Code examples and demonstrations
-├── resources/          # Additional resources and references
-└── documentation/      # Detailed documentation for tools
-```
-
-## 🛠️ Tools & Applications Covered
+## Tools & Applications Covered
 
 ### Development Environments
-- **Google Colab**: Cloud-based Python notebook environment
-- **AI Studio**: Integrated development environment for AI projects
-- **GitHub**: Version control and collaboration platform
+- **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
+- **[Hugging Face](https://huggingface.co/)**: Model hub and deployment platform.
+- **[GitHub](https://github.com/)**: Collaboration and version control platform.
+- **[Google AI Studio](https://aistudio.google.com/welcome)**: Web-based platform for developing generative AI applications.
 
-### Core AI Technologies
+### Example AI Applications
 - **Natural Language Processing (NLP)**
   - Text analysis
   - Document processing
@@ -32,10 +21,6 @@ AIConversation/
   - Image analysis
   - Video processing
   - Sports performance analysis
-- **Social Media Analytics**
-  - Sentiment analysis
-  - Trend monitoring
-  - Engagement tracking
 
 ### Implementation Tools
 - **Cursor (TGL+CV)**: AI-powered code editor
@@ -47,7 +32,18 @@ AIConversation/
 - **Zotero**: Reference management
 - **Notebook LM**: AI-assisted research tool
 
-## 🚀 Getting Started
+## Repository Structure
+
+```
+AIConversation/
+├── presentations/      # Presentation slides and materials
+├── examples/           # Code examples and demonstrations
+└── resources/          # Additional resources and references
+```
+
+
+
+## Getting Started
 
 1. Clone this repository:
 ```bash
@@ -58,30 +54,26 @@ git clone https://github.com/yourusername/AIConversation.git
 3. Check the examples directory for practical demonstrations
 4. Refer to documentation for detailed setup instructions
 
-## 📖 Prerequisites
+## Prerequisites
 
 - Basic understanding of Python programming
 - Familiarity with sport management concepts
 - GitHub account for accessing resources
 - Required software installations (listed in documentation)
 
-## 🤝 Contributing
+## Contact
 
-We welcome contributions to improve the materials and resources. Please:
+For questions, please reach out through:
+- [GitHub Issues](https://github.com/TyrealQ/AIConversation/issues)
+- yqian@lsu.edu
+
+## Contributing
+
+I welcome contributions to improve the materials and resources. Please:
 
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request with your changes
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For questions, please reach out through:
-- GitHub Issues
-- yqian@lsu.edu
 
 ---
 Last updated: February 2025
