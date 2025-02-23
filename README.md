@@ -4,62 +4,54 @@
 
 This repository contains resources for the talk "Applied AI in Sport Management," which explores the use of AI in sport management. It aims to support the sport management community in discovering practical and accessible ways to integrate AI tools and applications into their workflows.
 
-## Tools & Applications Covered
+## Tools & Applications
 
-### Development Environments
-- **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
-- **[Hugging Face](https://huggingface.co/)**: Model hub and deployment platform.
+### Development Tools
 - **[GitHub](https://github.com/)**: Collaboration and version control platform.
+- **[Hugging Face](https://huggingface.co/)**: Model hub and deployment platform.
+- **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
+- **[OpenAI API](https://openai.com/api/)**: API access to GPT models and other AI capabilities.
+- **[Cursor](https://www.cursor.com/en)**: AI-powered code editor.
 - **[Google AI Studio](https://aistudio.google.com/welcome)**: Web-based platform for developing generative AI applications.
+- **[Google NotebookLM](https://notebooklm.google/)**: AI-powered note-taking and research assistant.
+- **[STORM](https://storm.genie.stanford.edu/)**: AI-powered research and report generation system.
+- **[Zotero](https://www.zotero.org/)**: AI-powered Reference management.
+- **[Ollama](https://ollama.com/)**: Local AI model deployment.
 
-### Example AI Applications
-- **Natural Language Processing (NLP)**
-  - Text analysis
-  - Document processing
-  - Language understanding
-- **Computer Vision (CV)**
-  - Image analysis
-  - Video processing
-  - Sports performance analysis
+### AI Application Demos
 
-### Implementation Tools
-- **Cursor (TGL+CV)**: AI-powered code editor
-- **STORM**: Specialized sport analytics platform
-- **Ollama**: Local AI model deployment
-- **Hugging Face**: Model hub and deployment platform
+- **Basic Natural Language Processing (NLP)**
+  - Sentiment analysis
+  - Text classification and summarization
+  - Named Entity Recognition (NER)
 
-### Research & Knowledge Management
-- **Zotero**: Reference management
-- **Notebook LM**: AI-assisted research tool
+- **Basic Multimodal Processing**
+  - Image classification
+  - Speech recognition
+  - Text-to-audio conversion
+
+- **Large Language Model (LLM) Implementation with OpenAI API**
+  - Aspect-based sentiment analysis (ABSA) for game day experience
+  - TGL data filtering for structured outputs
+  - Google Scholar publication extraction and summarization
+ 
+- **Additional Resources**  
+  - Google AI Studio for multimodal processing
+  - Google NotebookLM for brainstorming and idea generation
+  - STORM for brainstorming and idea generation  
+  - Zotero for enhanced literature management and retrieval-augmented generation (RAG)
+  - Ollama for local multimodal processing
+  - Cursor for vibe coding
 
 ## Repository Structure
 
 ```
 AIConversation/
-├── presentations/      # Presentation slides and materials
-├── examples/           # Code examples and demonstrations
-└── resources/          # Additional resources and references
+├── Basic NLP/                 # Code and guides for basic NLP applications with Hugging Face's Transformers library
+├── Basic Multimodal/          # Code and guides for basic audio and image processing with Hugging Face's Transformers library
+├── LLM Implementation/        # Code and guides for multimodal applications leveraging LLMs resources
+└── Additional Resources/      # Additional resources and references
 ```
-
-
-
-## Getting Started
-
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/AIConversation.git
-```
-
-2. Navigate to the presentations folder for slide decks
-3. Check the examples directory for practical demonstrations
-4. Refer to documentation for detailed setup instructions
-
-## Prerequisites
-
-- Basic understanding of Python programming
-- Familiarity with sport management concepts
-- GitHub account for accessing resources
-- Required software installations (listed in documentation)
 
 ## Contact
 
