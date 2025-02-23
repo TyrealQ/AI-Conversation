@@ -53,6 +53,11 @@ AIConversation/
 └── [Additional Resources](./Additional_Resources/)  # Additional resources and references
 ```
 
+## Project Structure  
+- [Basic NLP](./Basic_NLP/)  
+- [Multimodal Processing](./Multimodal_Processing/)  
+- [LLM Implementation](./LLM_Implementation/)  
+
 ## Contact
 
 For questions, please reach out through:
