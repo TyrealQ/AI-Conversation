@@ -1,6 +1,6 @@
 # A Conversation about Applied AI in Sport Management
 
-This repository contains materials and resources for the talk "Applied AI in Sport Management," which explores the practical applications of artificial intelligence tools and technologies in sport management projects.
+This repository contains resources for the talk "Applied AI in Sport Management," which explores the practical applications of artificial intelligence tools and technologies in sport management projects.
 
 ## 🎯 Overview
 
@@ -92,4 +92,3 @@ For questions or collaborations, please reach out through:
 
 ---
 Last updated: February 2025
-```
