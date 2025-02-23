@@ -47,10 +47,10 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 
 ```
 AIConversation/
-├── Basic NLP/                 # Code and guides for basic NLP applications with Hugging Face's Transformers library
-├── Basic Multimodal/          # Code and guides for basic audio and image processing with Hugging Face's Transformers library
-├── LLM Implementation/        # Code and guides for multimodal applications leveraging OpenAI models
-└── Additional Resources/      # Additional resources and references
+├── [Basic NLP](./Basic_NLP/)  # Code and guides for basic NLP applications with Hugging Face's Transformers library
+├── [Multimodal Processing](./Multimodal_Processing/)  # Code and guides for basic audio and image processing with Hugging Face's Transformers library
+├── [LLM Implementation](./LLM_Implementation/)  # Code and guides for multimodal applications leveraging OpenAI models
+└── [Additional Resources](./Additional_Resources/)  # Additional resources and references
 ```
 
 ## Contact
