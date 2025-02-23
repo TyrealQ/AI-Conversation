@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains resources for the talk "Applied AI in Sport Management," which explores the use of AI in sport management. It aims to support the sport management community in discovering practical and accessible ways to integrate AI tools and applications into their workflows.
+This repository contains resources for the talk "Applied AI in Sport Management," which explores the use of AI in sport management. It aims to support the sport management community in discovering practical and accessible ways to integrate AI tools and applications into their projects and workflows.
 
 ## Tools & Applications
 
@@ -11,19 +11,19 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 - **[Hugging Face](https://huggingface.co/)**: Model hub and deployment platform.
 - **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
 - **[OpenAI API](https://openai.com/api/)**: API access to GPT models and other AI capabilities.
+- **[Ollama](https://ollama.com/)**: Local AI model deployment.
 - **[Cursor](https://www.cursor.com/en)**: AI-powered code editor.
 - **[Google AI Studio](https://aistudio.google.com/welcome)**: Web-based platform for developing generative AI applications.
 - **[Google NotebookLM](https://notebooklm.google/)**: AI-powered note-taking and research assistant.
 - **[STORM](https://storm.genie.stanford.edu/)**: AI-powered research and report generation system.
 - **[Zotero](https://www.zotero.org/)**: AI-powered Reference management.
-- **[Ollama](https://ollama.com/)**: Local AI model deployment.
 
 ### AI Application Demos
 
 - **Basic Natural Language Processing (NLP)**
   - Sentiment analysis
   - Text classification and summarization
-  - Named Entity Recognition (NER)
+  - Named entity recognition (NER)
 
 - **Basic Multimodal Processing**
   - Image classification
@@ -49,7 +49,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 AIConversation/
 ├── Basic NLP/                 # Code and guides for basic NLP applications with Hugging Face's Transformers library
 ├── Basic Multimodal/          # Code and guides for basic audio and image processing with Hugging Face's Transformers library
-├── LLM Implementation/        # Code and guides for multimodal applications leveraging LLMs resources
+├── LLM Implementation/        # Code and guides for multimodal applications leveraging OpenAI models
 └── Additional Resources/      # Additional resources and references
 ```
 
