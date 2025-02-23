@@ -77,18 +77,11 @@ We welcome contributions to improve the materials and resources. Please:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 📞 Contact
+## Contact
 
-For questions or collaborations, please reach out through:
+For questions, please reach out through:
 - GitHub Issues
-- [Your professional email/contact information]
-
-## 🙏 Acknowledgments
-
-- Contributors and reviewers
-- Open-source communities
-- Sport management professionals who provided insights
-- Anthropic and other AI tool providers
+- yqian@lsu.edu
 
 ---
 Last updated: February 2025
