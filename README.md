@@ -20,43 +20,12 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 
 ### AI Application Demos
 
-- **Basic Natural Language Processing (NLP)**
-  - Sentiment analysis
-  - Text classification and summarization
-  - Named entity recognition (NER)
-
-- **Basic Multimodal Processing**
-  - Image classification
-  - Speech recognition
-  - Text-to-audio conversion
-
-- **Large Language Model (LLM) Implementation with OpenAI API**
-  - Aspect-based sentiment analysis (ABSA) for game day experience
-  - TGL data filtering for structured outputs
-  - Google Scholar publication extraction and summarization
- 
-- **Additional Resources**  
-  - Google AI Studio for multimodal processing
-  - Google NotebookLM for brainstorming and idea generation
-  - STORM for brainstorming and idea generation  
-  - Zotero for enhanced literature management and retrieval-augmented generation (RAG)
-  - Ollama for local multimodal processing
-  - Cursor for vibe coding
-
-## Repository Structure
-
-```
-AIConversation/
-├── [Basic NLP](./Basic_NLP/)  # Code and guides for basic NLP applications with Hugging Face's Transformers library
-├── [Multimodal Processing](./Multimodal_Processing/)  # Code and guides for basic audio and image processing with Hugging Face's Transformers library
-├── [LLM Implementation](./LLM_Implementation/)  # Code and guides for multimodal applications leveraging OpenAI models
-└── [Additional Resources](./Additional_Resources/)  # Additional resources and references
-```
-
-## Project Structure  
-- [Basic NLP](./Basic_NLP/)  
-- [Multimodal Processing](./Multimodal_Processing/)  
-- [LLM Implementation](./LLM_Implementation/)  
+| Section | Description | Key Features |
+|---------|------------|--------------|
+| [Basic NLP](./Basic_NLP/) | Code and guides for basic NLP applications using Hugging Face's Transformers library | - Sentiment analysis  <br> - Text classification and summarization <br> - Named Entity Recognition (NER) |
+| [Multimodal Processing](./Multimodal_Processing/) | Code and guides for basic audio and image processing with Hugging Face's Transformers library | - Image classification <br> - Speech recognition <br> - Text-to-audio conversion |
+| [LLM Implementation](./LLM_Implementation/) | Code and guides for multimodal applications leveraging OpenAI models | - Aspect-Based Sentiment Analysis (ABSA) for game day experience <br> - TGL data filtering for structured outputs <br> - Google Scholar publication extraction and summarization |
+| [Additional Resources](./Additional_Resources/) | Additional tools, platforms, and references | - Google AI Studio for multimodal processing <br> - Google NotebookLM for brainstorming and idea generation <br> - STORM for brainstorming and idea generation <br> - Zotero for enhanced literature management and retrieval-augmented generation (RAG) <br> - Ollama for local multimodal processing <br> - Cursor for vibe coding |
 
 ## Contact
 
