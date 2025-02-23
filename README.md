@@ -23,7 +23,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | Section | Description | Key Features |
 |---------|------------|--------------|
 | [Basic NLP](./Basic_NLP/) | Code and guides for basic NLP applications using Hugging Face's Transformers library | - Sentiment analysis  <br> - Text classification and summarization <br> - Named Entity Recognition (NER) |
-| [Multimodal Processing](./Multimodal_Processing/) | Code and guides for basic audio and image processing with Hugging Face's Transformers library | - Image classification <br> - Speech recognition <br> - Text-to-audio conversion |
+| [Basic Multimodal](./Basic_Multimodal/) | Code and guides for basic audio and image processing with Hugging Face's Transformers library | - Image classification <br> - Speech recognition <br> - Text-to-audio conversion |
 | [LLM Implementation](./LLM_Implementation/) | Code and guides for multimodal applications leveraging OpenAI models | - Aspect-Based Sentiment Analysis (ABSA) for game day experience <br> - TGL data filtering for structured outputs <br> - Google Scholar publication extraction and summarization |
 | [Additional Resources](./Additional_Resources/) | Additional tools, platforms, and references | - Google AI Studio for multimodal processing <br> - Google NotebookLM for brainstorming and idea generation <br> - STORM for brainstorming and idea generation <br> - Zotero for enhanced literature management and retrieval-augmented generation (RAG) <br> - Ollama for local multimodal processing <br> - Cursor for vibe coding |
 
