@@ -1,6 +1,6 @@
 # NLP with Hugging Face Transformers
 
-This repository provides a collection of code and guides for key Natural Language Processing (NLP) applications using Hugging Face's **Transformers** library. It includes implementations for **sentiment analysis, named entity recognition (NER), and text summarization** with pre-trained transformer models and evaluation techniques.
+This codebook provides a collection of code and guides for key Natural Language Processing (NLP) applications using Hugging Face's **Transformers** library. It includes implementations for **sentiment analysis, named entity recognition (NER), and text summarization** with pre-trained transformer models and evaluation techniques.
 
 ## Features
 - **Sentiment Analysis**: Compare transformer-based models like RoBERTa and modernBERT with the lexicon-based VADER approach.
