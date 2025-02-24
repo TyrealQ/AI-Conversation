@@ -33,13 +33,5 @@ For questions, please reach out through:
 - [GitHub Issues](https://github.com/TyrealQ/AIConversation/issues)
 - yqian@lsu.edu
 
-## Contributing
-
-I welcome contributions to improve the materials and resources. Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with your changes
-
 ---
 Last updated: February 2025
