@@ -15,6 +15,7 @@
 
 | Name | Description |
 |------|-------------|
+| [Kaggle](https://www.kaggle.com/) | A platform for data science competitions, datasets, and collaborative machine learning projects. |
 | [Generative AI Explained](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-07+V1/) | An introductory course on Generative AI, covering key concepts and applications. |
 | [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit) | A curated document with AI and math-related resources. |
 | [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/) | A Stanford course on NLP with Deep Learning, covering models like Transformers and BERT. |
