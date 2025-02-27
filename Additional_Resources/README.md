@@ -36,11 +36,13 @@
 
 ## Learning Techniques  
 
-| Name | Description |  
-|------|-------------|  
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | A course on effective learning techniques and mental tools for mastering tough subjects. |  
-| [3Blue1Brown](https://www.youtube.com/c/3blue1brown) | Grant Sanderson’s channel using visual storytelling to explain math intuitively. |  
-| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | AI expert and former Tesla AI director sharing deep learning and coding insights. |  
+| Name | Description |
+|------|-------------|
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | A course on effective learning techniques and mental tools for mastering tough subjects. |
+| [3Blue1Brown](https://www.youtube.com/c/3blue1brown) | Grant Sanderson’s channel using visual storytelling to explain math intuitively. | 
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | AI expert and former Tesla AI director sharing deep learning and coding insights. |
+| [Maarten Grootendorst](https://www.youtube.com/@MaartenGrootendorst) | AI researcher covering NLP, topic modeling, and machine learning techniques. |
+| [StatQuest](https://www.youtube.com/@statquest) | Josh Starmer’s channel making statistics and machine learning easy with clear explanations. |
 
 ---
 Last updated: February 2025
