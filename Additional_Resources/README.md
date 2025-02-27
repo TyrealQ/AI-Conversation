@@ -34,11 +34,13 @@
 | [8 Free Sources to Master Building AI Agents](https://www.turingpost.com/p/building-ai-agents-sources) | A curated collection from Turing Post, providing free resources to learn about building various types of AI agents, suitable for both beginners and advanced practitioners. |
 ---
 
-## Learning Techniques
+## Learning Techniques  
 
-| Name | Description |
-|------|-------------|
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | A course teaching effective learning techniques and mental tools for mastering tough subjects. |
+| Name | Description |  
+|------|-------------|  
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | A course on effective learning techniques and mental tools for mastering tough subjects. |  
+| [3Blue1Brown](https://www.youtube.com/c/3blue1brown) | Grant Sanderson’s channel using visual storytelling to explain math intuitively. |  
+| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | AI expert and former Tesla AI director sharing deep learning and coding insights. |  
 
 ---
 Last updated: February 2025
