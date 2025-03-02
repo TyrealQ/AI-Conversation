@@ -36,4 +36,3 @@ For questions, please reach out through:
 
 ---
 Last updated: <!-- LAST_UPDATED -->
-
