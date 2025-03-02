@@ -35,4 +35,4 @@ For questions, please reach out through:
 - yqian@lsu.edu
 
 ---
-Last updated: March 2025
+Last updated: <!-- LAST_UPDATED -->
