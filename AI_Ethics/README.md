@@ -1,9 +1,8 @@
-# AI Ethics with Large Language Models (LLMs)
+# AI Ethics
 
-This folder provides code and guides for evaluating ethical considerations and biases in LLM applications, especially in sport marketing research contexts.
+Resources and discussions aimed at understanding and addressing ethical concerns and bias within AI systems.
 
 ## Features
 
-- Bias Evaluation: Demonstration of biased associations in explicitly unbiased LLMs.
-- Bias Detection: Methods for identifying and understanding biases within AI models.
-- Ethical Guidelines: Practices for ethically deploying LLMs in sport marketing research.
+- Bias Analysis: Examining biased associations in AI systems designed to be neutral.
+- Bias Management: Guidelines and best practices for detecting and reducing biases in AI applications.
