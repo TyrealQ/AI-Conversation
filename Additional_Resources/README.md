@@ -45,4 +45,3 @@
 | [StatQuest](https://www.youtube.com/@statquest) | Josh Starmer’s channel making statistics and machine learning easy with clear explanations. |
 
 ---
-Last updated: February 2025
