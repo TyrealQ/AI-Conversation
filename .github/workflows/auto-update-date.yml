@@ -16,7 +16,7 @@ jobs:
 
       - name: Update README Date
         run: |
-          DATE=$(date +"%B %Y")
+          DATE=$(date +"%B %d, %Y")  # Now includes day
           sed -i -E 's/(<!-- LAST_UPDATED -->).*/\1 '"$DATE"'/' README.md
 
       - name: Commit and push changes
