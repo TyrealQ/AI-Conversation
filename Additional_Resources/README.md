@@ -32,6 +32,7 @@
 | [Intelligent Agents: Theory and Practice](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95/ker95-html.html) | A seminal work by Michael Wooldridge and Nick Jennings from 1995, offering insights into the theory, architectures, and languages of intelligent agents. |
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase) | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents, such as memory and knowledge integration. |
 | [8 Free Sources to Master Building AI Agents](https://www.turingpost.com/p/building-ai-agents-sources) | A curated collection from Turing Post, providing free resources to learn about building various types of AI agents, suitable for both beginners and advanced practitioners. |
+| [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms) | A detailed visual explanation of how Large Language Models (LLMs) approach reasoning tasks (DeepSeek-R1). |
 ---
 
 ## Learning Techniques  
