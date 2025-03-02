@@ -6,16 +6,18 @@ on:
       - main
 
 jobs:
-  update-date:
+  update-readme-date:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Ensures GitHub Actions can commit changes
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update date in README.md
+      - name: Update README Date
         run: |
           DATE=$(date +"%B %Y")
-          sed -i "s/\(<!-- LAST_UPDATED -->\).*/\1 $DATE/" README.md
+          sed -i -E 's/(<!-- LAST_UPDATED -->).*/\1 '"$DATE"'/' README.md
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
