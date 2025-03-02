@@ -1,0 +1,23 @@
+name: Auto-update README Date
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update date in README.md
+        run: |
+          DATE=$(date +"%B %Y")
+          sed -i "s/\(<!-- LAST_UPDATED -->\).*/\1 $DATE/" README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update README date"
