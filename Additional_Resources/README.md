@@ -8,7 +8,7 @@
 | [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql)                           | A course on Linux and SQL, essential tools for software development and data analysis.             |
 | [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)                                | A beginner-friendly Python course covering fundamental programming concepts.                       |
 
-### Websites / Platforms
+### Websites & Platforms
 | Name                                                                                   | Description                                                                             |
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [Real Python](https://realpython.com/)                                                 | Tutorials, quizzes, and learning paths for Python learners of all levels.               |
