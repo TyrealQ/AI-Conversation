@@ -13,7 +13,6 @@
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [Real Python](https://realpython.com/)                                                 | Tutorials, quizzes, and learning paths for Python learners of all levels.               |
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)    | Massive collection of free programming books hosted on GitHub.                          |
-
 ---
 
 ## Artificial Intelligence & Machine Learning
@@ -35,6 +34,7 @@
 | [Educational Resources on LLMs](https://parlance-labs.com/education/)              | A collection of educational resources on Large Language Models (LLMs), including RAG, evaluation, and fine-tuning. |
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase)                 | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents. |
 | [LiveBench](https://livebench.ai/?continueFlag=78d85bba1bf40a18f8e8849863f42da2#/) | A platform providing live benchmarking and evaluation of AI models.                                     |
+| [Mistral OCR](https://mistral.ai/news/mistral-ocr?continueFlag=8bbecbaa2fe3ab18c2ed573156ba5d02) | An OCR model by Mistral AI designed to extract text from images and scanned documents. |
 
 ### Guides & Collections
 | Name                                                                                                                    | Description                                                                                                       |
