@@ -35,6 +35,7 @@
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase)                 | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents. |
 | [LiveBench](https://livebench.ai/?continueFlag=78d85bba1bf40a18f8e8849863f42da2#/) | A platform providing live benchmarking and evaluation of AI models.                                     |
 | [Mistral OCR](https://mistral.ai/news/mistral-ocr?continueFlag=8bbecbaa2fe3ab18c2ed573156ba5d02) | An OCR model by Mistral AI designed to extract text from images and scanned documents and convert into markdown. |
+| [LLM Agents Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)            | A curated collection of research papers focused on LLM-based agents, agentic workflows, architectures, and evaluations. |
 
 ### Guides & Collections
 | Name                                                                                                                    | Description                                                                                                       |
@@ -43,7 +44,8 @@
 | [A Complete Guide to Natural Language Processing](https://www.deeplearning.ai/resources/natural-language-processing/)  | A comprehensive guide to NLP, including tutorials and resources.                                                  |
 | [8 Free Sources to Master Building AI Agents](https://www.turingpost.com/p/building-ai-agents-sources)                 | A curated collection from Turing Post, providing free resources to learn about building various types of AI agents. |
 | [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)      | A detailed visual explanation of how Large Language Models (LLMs) approach reasoning tasks (DeepSeek-R1).          |
-| [AI Engineer Summit 2025: Agent Engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw)          | An 8-hour video featuring expert talks on the latest advancements in Agent Engineering, including insights from Google DeepMind.  |
+| [AI Engineer Summit 2025: Agent Engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw)          | A video about the latest advancements in Agent Engineering, including insights from Google DeepMind.  |
+
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
