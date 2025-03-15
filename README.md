@@ -4,6 +4,11 @@
 
 This repository contains resources for the talk "Applied AI in Sport Management," which explores the use of AI in sport management. It aims to support the sport management community in discovering practical and accessible ways to integrate AI tools and applications into their projects and workflows.
 
+Explore the concepts discussed by watching the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/waUZ_Khn7ZY?si=LSgney88ndhqq-W2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Tools & Applications
 
 ### Development Tools
