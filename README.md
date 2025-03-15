@@ -6,7 +6,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
-    <img src="https://img.youtube.com/vi/waUZ_Khn7ZY/0.jpg" alt="Applied AI in Sport Management">
+    <img src="https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/QLearning101.png" alt="Applied AI in Sport Management">
   </a>
 </p>
 
