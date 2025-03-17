@@ -1,12 +1,13 @@
 ## Programming Resources
 
 ### Courses
-| Name                                                                                                         | Description                                                                                       |
-|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) | Harvard’s renowned introductory computer science course.                                           |
-| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                  | An MIT course covering essential CS skills often missing from formal education.                    |
-| [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql)                           | A course on Linux and SQL, essential tools for software development and data analysis.             |
-| [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)                                | A beginner-friendly Python course covering fundamental programming concepts.                       |
+| Name                                                                                                         | Description                                                                                          |
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)  | Harvard’s renowned introductory computer science course.                                             |
+| [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)                                  | An MIT course covering essential CS skills often missing from formal education.                      |
+| [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql)                            | A course on Linux and SQL, essential tools for software development and data analysis.               |
+| [Crash Course on Python](https://www.coursera.org/learn/python-crash-course)                                 | A beginner-friendly Python course covering fundamental programming concepts.                         |
+| [Here's how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)     | A detailed guide on effectively integrating Large Language Models into coding workflows.             |
 
 ### Websites & Platforms
 | Name                                                                                   | Description                                                                             |
