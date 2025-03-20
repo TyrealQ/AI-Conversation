@@ -47,6 +47,7 @@
 | [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)      | A detailed visual explanation of how Large Language Models (LLMs) approach reasoning tasks (DeepSeek-R1).          |
 | [AI Engineer Summit 2025: Agent Engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw)          | A video about the latest advancements in Agent Engineering, including insights from Google DeepMind.  |
 | [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)                                                 | A curated collection of AI-driven tools and resources designed to enhance grant writing efficiency and effectiveness. |
+| [All RAG Techniques](https://github.com/FareedKhan-dev/all-rag-techniques) | A comprehensive compilation of Retrieval-Augmented Generation (RAG) techniques, implementations, and resources for enhancing LLM applications. |
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
