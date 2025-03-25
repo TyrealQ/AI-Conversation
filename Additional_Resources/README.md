@@ -27,6 +27,7 @@
 | [CS25: Transformers United V4](https://web.stanford.edu/class/cs25/)                                                          | A Stanford course on Transformers, covering their use in NLP, vision, and beyond.                            |
 | [edX: How to Use ChatGPT in Tech/Coding/Data](https://www.edx.org/learn/computer-programming/edx-how-to-use-chatgpt-in-tech-coding-data) | A course on using ChatGPT in technology, coding, and data applications.                                     |
 | [AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)                                          | A course by Hugging Face covering both the theory and practical aspects of AI agents.                        |
+| [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | A beginner-friendly guide from Microsoft exploring AI agents, their architecture, and practical use cases. |
 
 ### Websites & Platforms
 | Name                                                                               | Description                                                                                             |
