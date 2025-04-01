@@ -26,7 +26,7 @@
 | [CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/)                                                      | A Stanford course on NLP with Deep Learning, covering models like Transformers and BERT.                     |
 | [Building RAG Agents with LLMs](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/course/)                          | A course on building Retrieval-Augmented Generation (RAG) agents using Large Language Models (LLMs).         |
 | [CS25: Transformers United V4](https://web.stanford.edu/class/cs25/)                                                          | A Stanford course on Transformers, covering their use in NLP, vision, and beyond.                            |
-| [edX: How to Use ChatGPT in Tech/Coding/Data](https://www.edx.org/learn/computer-programming/edx-how-to-use-chatgpt-in-tech-coding-data) | A course on using ChatGPT in technology, coding, and data applications.                                     |
+| [edX: How to Use ChatGPT in Tech/Coding/Data](https://www.edx.org/learn/computer-programming/edx-how-to-use-chatgpt-in-tech-coding-data) | A course on using ChatGPT in technology, coding, and data applications.                           |
 | [AI Agents Course](https://huggingface.co/learn/agents-course/en/unit0/introduction)                                          | A course by Hugging Face covering both the theory and practical aspects of AI agents.                        |
 | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | A beginner-friendly guide from Microsoft exploring AI agents, their architecture, and practical use cases. |
 
@@ -34,6 +34,7 @@
 | Name                                                                               | Description                                                                                             |
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [Kaggle](https://www.kaggle.com/)                                                  | A platform for data science competitions, datasets, and collaborative machine learning projects.        |
+| [OpenAI Academy](academy.openai.com)                                               | A platform created by OpenAI for artificial intelligence-related knowledge and skills.  |
 | [Educational Resources on LLMs](https://parlance-labs.com/education/)              | A collection of educational resources on Large Language Models (LLMs), including RAG, evaluation, and fine-tuning. |
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase)                 | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents. |
 | [LiveBench](https://livebench.ai/?continueFlag=78d85bba1bf40a18f8e8849863f42da2#/) | A platform providing live benchmarking and evaluation of AI models.                                     |
