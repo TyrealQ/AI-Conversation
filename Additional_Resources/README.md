@@ -59,6 +59,7 @@
 | [Agents in the Long Game of AI: Computational Cognitive Modeling for Trustworthy, Hybrid AI](https://direct.mit.edu/books/oa-monograph/5833/) | A book discussing the development of AI agents using Hybrid AI, combining machine learning with knowledge-based reasoning.   |
 | [Artificial Intelligence: Foundations of Computational Agents, 3rd Edition](https://artint.info/3e/html/ArtInt3e.html)                        | A comprehensive book by David L. Poole and Alan K. Mackworth, detailing agent architectures and their capabilities.          |
 | [Intelligent Agents: Theory and Practice](https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/ker95/ker95-html.html)                       | A seminal work by Michael Wooldridge and Nick Jennings (1995), offering insights into the theory, architectures, and languages of intelligent agents. |
+| [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)                       | A whitepaper by Google, discussing various prompting techniques and sharing tips and best practices. |
 
 ---
 
