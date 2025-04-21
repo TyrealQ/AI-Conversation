@@ -77,3 +77,4 @@
 | [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | AI expert and former Tesla AI director sharing deep learning and coding insights.                |
 | [Maarten Grootendorst](https://www.youtube.com/@MaartenGrootendorst) | AI researcher covering NLP, topic modeling, and machine learning techniques.                     |
 | [StatQuest](https://www.youtube.com/@statquest)    | Josh Starmer’s channel making statistics and machine learning easy with clear explanations.      |
+| [Jim Fowler](https://www.youtube.com/@kisonecat)  | Jim Fowler's channel covering down-to-earth Calculus 101.  |
