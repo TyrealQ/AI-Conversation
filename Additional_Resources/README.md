@@ -14,6 +14,7 @@
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | [Real Python](https://realpython.com/)                                                 | Tutorials, quizzes, and learning paths for Python learners of all levels.               |
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)    | Massive collection of free programming books hosted on GitHub.                          |
+| [DeepWiki](https://deepwiki.com/)    | AI-Powered Guide to GitHub Repositories                          |
 ---
 
 ## Artificial Intelligence & Machine Learning
