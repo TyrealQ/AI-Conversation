@@ -80,3 +80,11 @@
 | [Maarten Grootendorst](https://www.youtube.com/@MaartenGrootendorst) | AI researcher covering NLP, topic modeling, and machine learning techniques.                     |
 | [StatQuest](https://www.youtube.com/@statquest)    | Josh Starmer’s channel making statistics and machine learning easy with clear explanations.      |
 | [Jim Fowler](https://www.youtube.com/@kisonecat)  | Jim Fowler's channel covering down-to-earth Calculus 101.  |
+
+---
+
+## Miscellaneous
+
+| Name                                                                     | Description                                                                          |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [json.visuals.zip](https://json.visuals.zip/) | JSON Style Templates for ChatGPT by @hckmstrrahul. |
