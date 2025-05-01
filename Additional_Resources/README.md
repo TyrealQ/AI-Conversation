@@ -89,3 +89,4 @@
 | Name                                                                     | Description                                                                          |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [json.visuals.zip](https://json.visuals.zip/) | JSON Style Templates for ChatGPT by @hckmstrrahul. |
+| [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images?continueFlag=eed10522790b8ac498c1707e1fb62043) | Archive for GPT‑4o image generation prompts and illustrations. |
