@@ -43,6 +43,7 @@
 | [LiveBench](https://livebench.ai/?continueFlag=78d85bba1bf40a18f8e8849863f42da2#/) | A platform providing live benchmarking and evaluation of AI models.                                     |
 | [Mistral OCR](https://mistral.ai/news/mistral-ocr?continueFlag=8bbecbaa2fe3ab18c2ed573156ba5d02) | An OCR model by Mistral AI designed to extract text from images and scanned documents and convert into markdown. |
 | [LLM Agents Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)            | A curated collection of research papers focused on LLM-based agents, agentic workflows, architectures, and evaluations. |
+| [LLM Resource Calculator](apxml.com/tools/vram-calculator)| LLM Inference & Fine-tuning VRAM Calculator. |
 
 ### Guides & Collections
 | Name                                                                                                                    | Description                                                                                                       |
