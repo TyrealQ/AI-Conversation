@@ -37,6 +37,7 @@
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [Kaggle](https://www.kaggle.com/)                                                  | A platform for data science competitions, datasets, and collaborative machine learning projects.        |
 | [OpenAI Academy](academy.openai.com)                                               | A platform created by OpenAI for artificial intelligence-related knowledge and skills.  |
+| [Build Hours](https://github.com/openai/build-hours) | Monthly events by OpenAI designed for startup founders and developers to explore specific ideas for leveraging OpenAI’s API and models across diverse topics. |
 | [Educational Resources on LLMs](https://parlance-labs.com/education/)              | A collection of educational resources on Large Language Models (LLMs), including RAG, evaluation, and fine-tuning. |
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase)                 | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents. |
 | [LiveBench](https://livebench.ai/?continueFlag=78d85bba1bf40a18f8e8849863f42da2#/) | A platform providing live benchmarking and evaluation of AI models.                                     |
