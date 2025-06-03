@@ -15,6 +15,7 @@
 | [Real Python](https://realpython.com/)                                                 | Tutorials, quizzes, and learning paths for Python learners of all levels.               |
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)    | Massive collection of free programming books hosted on GitHub.                          |
 | [DeepWiki](https://deepwiki.com/)    | AI-Powered Guide to GitHub Repositories                          |
+| [High Scalability](https://highscalability.com/)    | A comprehensive resource dedicated to the art and science of building scalable, high-performance systems                   |
 ---
 
 ## Artificial Intelligence & Machine Learning
