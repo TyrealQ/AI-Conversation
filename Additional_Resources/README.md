@@ -33,6 +33,7 @@
 | [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | A beginner-friendly guide from Microsoft exploring AI agents, their architecture, and practical use cases. |
 | [Foundational Researcher Learning Plan](https://explore.skillbuilder.aws/learn/learning-plans/2387/foundational-researcher-learning-plan) | A beginner-friendly guide from Amazon exploring research optimization using AWS services. |
 | [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) | Microsoft's open-source curriculum designed to teach the concepts and fundamentals of the Model Context Protocol (MCP). |
+| [MCP Course](huggingface.co/learn/mcp-course) | Hugging Face free course designed for understanding, using, and building applications with MCP. |
 
 ### Websites & Platforms
 | Name                                                                               | Description                                                                                             |
