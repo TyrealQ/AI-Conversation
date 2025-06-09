@@ -58,7 +58,7 @@
 | [AI Engineer Summit 2025: Agent Engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw)          | A video about the latest advancements in Agent Engineering, including insights from Google DeepMind.  |
 | [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)                                                 | A curated collection of AI-driven tools and resources designed to enhance grant writing efficiency and effectiveness. |
 | [All RAG Techniques](https://github.com/FareedKhan-dev/all-rag-techniques) | A comprehensive compilation of Retrieval-Augmented Generation (RAG) techniques, implementations, and resources for enhancing LLM applications. |
-| [The AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e) | How Notebook LM and Manus Al Help Flip Sites, Build Brands, and Wow Clients — Fast. |
+| [The AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e) | How Notebook LM and Manus Al Help Flip Sites, Build Brands, and Wow Clients—Fast. |
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
