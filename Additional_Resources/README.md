@@ -61,6 +61,7 @@
 | [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)                                                 | A curated collection of AI-driven tools and resources designed to enhance grant writing efficiency and effectiveness. |
 | [All RAG Techniques](https://github.com/FareedKhan-dev/all-rag-techniques) | A comprehensive compilation of Retrieval-Augmented Generation (RAG) techniques, implementations, and resources for enhancing LLM applications. |
 | [The AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e) | How Notebook LM and Manus Al Help Flip Sites, Build Brands, and Wow Clients—Fast. |
+| [Frequently Asked Questions (And Answers) About AI Evals]([https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e](https://www.dropbox.com/scl/fi/vkskh8b6mbkmdb5vwub6q/evals-faq.pdf?ck_subscriber_id=2766913508&rlkey=z3au3gdkw31tw23fl8zqs8ryl&e=1&st=9gfuh6m0&utm_campaign=All+AI+eval+questions+in+one+place+-+18261142&utm_medium=email&utm_source=convertkit&dl=0)) | FAQ about AI evaluations by Hamel Husain & Shreya Shankar. |
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
