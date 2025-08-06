@@ -16,6 +16,11 @@
 | [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)    | Massive collection of free programming books hosted on GitHub.                          |
 | [DeepWiki](https://deepwiki.com/)    | AI-Powered Guide to GitHub Repositories                          |
 | [High Scalability](https://highscalability.com/)    | A comprehensive resource dedicated to the art and science of building scalable, high-performance systems                   |
+
+### Tools
+| Name                                                                                   | Description                                                                             |
+|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| [Pandoc](https://pandoc.org/)                                                 | A universal document converter.               |
 ---
 
 ## Artificial Intelligence & Machine Learning
