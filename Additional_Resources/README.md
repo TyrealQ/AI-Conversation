@@ -105,3 +105,4 @@
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [json.visuals.zip](https://json.visuals.zip/) | JSON Style Templates for ChatGPT by @hckmstrrahul. |
 | [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images?continueFlag=eed10522790b8ac498c1707e1fb62043) | Archive for GPT‑4o image generation prompts and illustrations. |
+| [GAI Progress](https://progress.openai.com/) | A webpage highlighting the evolution of AI by showcasing responses from OpenAI models (GPT-1, GPT-2, text-davinci-001, gpt-4-0314, and gpt-5) to different prompts. |
