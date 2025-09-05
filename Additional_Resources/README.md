@@ -83,6 +83,15 @@
 
 ---
 
+## Research Resources
+
+### Platforms
+| Name                                                                     | Description                                                                          |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [Create Digital In-Context Experiments (DICE)](https://www.dice-app.org/) | A research platform mimics social media feeds with experimental control and without a single line of code. |
+
+---
+
 ## Learning Techniques
 
 ### Courses
