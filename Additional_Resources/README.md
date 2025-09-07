@@ -90,6 +90,7 @@
 | Name                                                                     | Description                                                                          |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [Create Digital In-Context Experiments (DICE)](https://www.dice-app.org/) | A research platform mimics social media feeds with experimental control and without a single line of code. |
+| [AI-Researcher: Autonomous Scientific Innovation](https://novix.science/chat) | AI-Researcher empowers researchers with full autonomy to complete end-to-end research automation, seamless orchestration from concept to publication, advanced AI integration powered by cutting-edge AI agents, and research acceleration to streamline scientific innovation. |
 
 ---
 
