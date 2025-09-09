@@ -86,11 +86,17 @@
 
 ## Research Resources
 
-### Platforms
 | Name                                                                     | Description                                                                          |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [Create Digital In-Context Experiments (DICE)](https://www.dice-app.org/) | A research platform mimics social media feeds with experimental control and without a single line of code. |
 | [AI-Researcher: Autonomous Scientific Innovation](https://novix.science/chat) | AI-Researcher empowers researchers with full autonomy to complete end-to-end research automation, seamless orchestration from concept to publication, advanced AI integration powered by cutting-edge AI agents, and research acceleration to streamline scientific innovation. |
+
+---
+
+## Teaching Resources
+| Name                                                                     | Description                                                                          |
+|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [Advertising Measurement](https://kennethcwilbur.github.io/mgta451mktg/2025mgta451-2-Advertising-Measurement.html#/title-slide) | This slide deck is designed by Kenneth Wilbur for advertising measurement, organized for MS-Business Analytics students without marketing experience. |
 
 ---
 
