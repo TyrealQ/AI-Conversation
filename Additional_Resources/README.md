@@ -65,6 +65,8 @@
 | [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit)          | A curated document with AI and math-related resources.                                                            |
 | [A Complete Guide to Natural Language Processing](https://www.deeplearning.ai/resources/natural-language-processing/)  | A comprehensive guide to NLP, including tutorials and resources.                                                  |
 | [8 Free Sources to Master Building AI Agents](https://www.turingpost.com/p/building-ai-agents-sources)                 | A curated collection from Turing Post, providing free resources to learn about building various types of AI agents. |
+| [AGENTS.md](https://github.com/openai/agents.md)                 | A simple, open format for guiding coding agents. |
+
 | [A Visual Guide to Reasoning LLMs](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms)      | A detailed visual explanation of how Large Language Models (LLMs) approach reasoning tasks (DeepSeek-R1).          |
 | [AI Engineer Summit 2025: Agent Engineering](https://www.youtube.com/watch?v=D7BzTxVVMuw)          | A video about the latest advancements in Agent Engineering, including insights from Google DeepMind.  |
 | [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)                                                 | A curated collection of AI-driven tools and resources designed to enhance grant writing efficiency and effectiveness. |
