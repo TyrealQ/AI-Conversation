@@ -94,7 +94,7 @@
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [Create Digital In-Context Experiments (DICE)](https://www.dice-app.org/) | A research platform mimics social media feeds with experimental control and without a single line of code. |
 | [AI-Researcher: Autonomous Scientific Innovation](https://novix.science/chat) | AI-Researcher empowers researchers with full autonomy to complete end-to-end research automation, seamless orchestration from concept to publication, advanced AI integration powered by cutting-edge AI agents, and research acceleration to streamline scientific innovation. |
-| [Zenodo](https://zenodo.org/) | Zenodo is a general-purpose research repository where any research output can be shared by its users. Zenodo provides a home for research outputs that doesn't fit into discipline-specific repositories, or where no existing infrastructure exists. |
+| [Zenodo](https://zenodo.org/) | Zenodo is a general-purpose research repository where any research output can be shared by its users. |
 
 ---
 
