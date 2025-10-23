@@ -49,7 +49,7 @@
 ### Websites & Platforms
 | Name                                                                               | Description                                                                                             |
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [Kaggle](https://www.kaggle.com/)                                                  | A platform for data science competitions, datasets, and collaborative machine learning projects.        |
+| [Google Skills](https://www.skills.google/)                                                  | A Google platform that provides free training and certifications.        |
 | [OpenAI Academy](academy.openai.com)                                               | A platform created by OpenAI for artificial intelligence-related knowledge and skills.  |
 | [Build Hours](https://github.com/openai/build-hours) | Monthly events by OpenAI designed for startup founders and developers to explore specific ideas for leveraging OpenAI’s API and models across diverse topics. |
 | [Educational Resources on LLMs](https://parlance-labs.com/education/)              | A collection of educational resources on Large Language Models (LLMs), including RAG, evaluation, and fine-tuning. |
@@ -94,6 +94,7 @@
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [Create Digital In-Context Experiments (DICE)](https://www.dice-app.org/) | A research platform mimics social media feeds with experimental control and without a single line of code. |
 | [AI-Researcher: Autonomous Scientific Innovation](https://novix.science/chat) | AI-Researcher empowers researchers with full autonomy to complete end-to-end research automation, seamless orchestration from concept to publication, advanced AI integration powered by cutting-edge AI agents, and research acceleration to streamline scientific innovation. |
+| [Kaggle](https://www.kaggle.com/)                                                  | A platform for data science competitions, datasets, and collaborative machine learning projects.        |
 | [Zenodo](https://zenodo.org/) | Zenodo is a general-purpose research repository where any research output can be shared by its users. |
 
 ---
