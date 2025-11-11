@@ -74,7 +74,7 @@
 | [Frequently Asked Questions (And Answers) About AI Evals](https://www.dropbox.com/scl/fi/vkskh8b6mbkmdb5vwub6q/evals-faq.pdf?ck_subscriber_id=2766913508&rlkey=z3au3gdkw31tw23fl8zqs8ryl&e=1&st=9gfuh6m0&utm_campaign=All+AI+eval+questions+in+one+place+-+18261142&utm_medium=email&utm_source=convertkit&dl=0) | FAQ about AI evaluations by Hamel Husain & Shreya Shankar. |
 | [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml?tab=readme-ov-file#language-and-visual-qa) | Reading list for research topics in multimodal machine learning. |
 | [Why language models hallucinate](https://openai.com/index/why-language-models-hallucinate/) | What are LLM hallucinations and why. |
-| [Claude use cases](https://claude.com/resources/use-cases) | Practical examples across research, writing, coding, analysis, and everyday tasks, with Claude. |
+| [Claude Use Cases](https://claude.com/resources/use-cases) | Practical examples across research, writing, coding, analysis, and everyday tasks, with Claude. |
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
