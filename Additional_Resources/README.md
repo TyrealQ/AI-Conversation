@@ -79,6 +79,7 @@
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [State of AI](https://openrouter.ai/state-of-ai) | An Empirical 100 Trillion Token Study with OpenRouter. |
 | [Agents](https://www.kaggle.com/whitepaper-agents) | A whitepaper by Google exploring the core components of Generative AI agents, their functions, tool use, and distinctions from traditional models. |
 | [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) | A whitepaper by OpenAI exploring how to build AI agents, distilling insights from numerous customer deployments into practical and actionable best practices. |
 | [Agents Companion](https://www.kaggle.com/whitepaper-agent-companion) | A whitepaper by Google exploring the practical application of multi-agent systems. |
