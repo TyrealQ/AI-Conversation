@@ -98,6 +98,7 @@
 | [AI-Researcher: Autonomous Scientific Innovation](https://novix.science/chat) | AI-Researcher empowers researchers with full autonomy to complete end-to-end research automation, seamless orchestration from concept to publication, advanced AI integration powered by cutting-edge AI agents, and research acceleration to streamline scientific innovation. |
 | [Kaggle](https://www.kaggle.com/)                                                  | A platform for data science competitions, datasets, and collaborative machine learning projects.        |
 | [Zenodo](https://zenodo.org/) | Zenodo is a general-purpose research repository where any research output can be shared by its users. |
+| [slideland.tech](https://www.slideland.tech/docs/en) | Slideland is a website and digital library that showcases various presentation slide designs. |
 
 ---
 
