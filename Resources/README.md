@@ -75,7 +75,8 @@
 | [Awesome Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml?tab=readme-ov-file#language-and-visual-qa) | Reading list for research topics in multimodal machine learning. |
 | [Why language models hallucinate](https://openai.com/index/why-language-models-hallucinate/) | What are LLM hallucinations and why. |
 | [Claude Use Cases](https://claude.com/resources/use-cases) | Practical examples across research, writing, coding, analysis, and everyday tasks, with Claude. |
-| [Agent Skills]([https://claude.com/resources/use-cases](https://code.claude.com/docs/en/skills)) | Agent skills 101 by Claude. |
+| [Agent Skills](https://code.claude.com/docs/en/skills) | Agent skills 101 by Claude. |
+| [Advent of Claude: 31 Days of Claude Code](https://adocomplete.com/advent-of-claude-2025/) | A comprehensive guide to Claude Code's most powerful features, from quick shortcuts to advanced agent patterns. |
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
