@@ -103,6 +103,7 @@
 | [Zenodo](https://zenodo.org/) | Zenodo is a general-purpose research repository where any research output can be shared by its users. |
 | [slideland.tech](https://www.slideland.tech/docs/en) | Slideland is a website and digital library that showcases various presentation slide designs. |
 | [AI-Draw-Nexus](https://ai-draw-nexus.aizhi.site/) | An open-source project and a broader ecosystem of AI-integrated drawing tools. |
+| [Politics in the US Workplace](https://politicsatwork.org/) | A research-driven platform and database focused on the role of partisanship in the American workplace. |
 
 ---
 
