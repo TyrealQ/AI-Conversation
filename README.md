@@ -29,13 +29,12 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 ### Development Tools
 - **[GitHub](https://github.com/)**: Collaboration and version control platform.
 - **[Hugging Face](https://huggingface.co/)**: Model hub and deployment platform.
-- **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
-- **[OpenAI API](https://platform.openai.com/)**: API access to GPT models and other AI capabilities.
-- **[Ollama](https://ollama.com/)**: Local AI model deployment.
-- **[Cursor](https://www.cursor.com/en)**: AI-powered code editor.
 - **[Google AI Studio](https://aistudio.google.com/welcome)**: Web-based platform for developing generative AI applications.
+- **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
 - **[Google NotebookLM](https://notebooklm.google/)**: AI-powered note-taking and research assistant.
-- **[STORM](https://storm.genie.stanford.edu/)**: AI-powered research and report generation system.
+- **[Cursor](https://www.cursor.com/en)**: AI-powered code editor.
+- **[Claude Code](https://code.claude.com/docs/en/overview)**: Agentic coding tool.
+- **[Ollama](https://ollama.com/)**: Local AI model deployment.
 - **[Zotero](https://www.zotero.org/)**: AI-powered Reference management.
 
 ### AI Application Demos
