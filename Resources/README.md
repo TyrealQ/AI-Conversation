@@ -78,6 +78,7 @@
 | [Agent Skills](https://code.claude.com/docs/en/skills) | Agent skills 101 by Claude. |
 | [Advent of Claude: 31 Days of Claude Code](https://adocomplete.com/advent-of-claude-2025/) | A comprehensive guide to Claude Code's most powerful features, from quick shortcuts to advanced agent patterns. |
 | [Skills](https://skills.sh/) | A open agent skills directory, a platform for the AI agent ecosystem. |
+| [The Lenny Skills Database](https://refoundai.com/lenny-skills/) | A specialized skills archive that transforms insights from Lenny’s Podcast into a searchable, actionable library for product managers and growth experts. |
 
 ### Books & Whitepapers
 | Name                                                                                                                                          | Description                                                                                                                  |
