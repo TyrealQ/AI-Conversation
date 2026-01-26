@@ -4,18 +4,25 @@
 
 This repository contains resources for the talk "Applied AI in Sport Management," which explores the use of AI in sport management. It aims to support the sport management community in discovering practical and accessible ways to integrate AI tools and applications into their projects and workflows.
 
+---
+
+## Tutorial Videos
+
+### NLP101
 <p align="center">
   <a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
     <img src="https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/QLearning101.png" alt="NLP101">
   </a>
 </p>
 
+### LLM for NLP101
 <p align="center">
   <a href="https://youtu.be/KhFsri1uPv8">
     <img src="https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/LLM101.png" alt="LLM101">
   </a>
 </p>
 
+---
 
 ## Tools & Applications
 
@@ -40,6 +47,8 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [LLM Implementation](./LLM-Implementation/) | Code and guides for LLM applications leveraging OpenAI API | - Aspect-Based Sentiment Analysis (ABSA) for game day experience <br> - TGL data filtering for structured outputs <br> - Google Scholar publication extraction and summarization |
 | [AI Ethics](./AI-Ethics/) | Resources for assessing ethical implications and biases in AI applications | - Evaluating biased associations in explicitly unbiased LLMs <br> - Bias detection and mitigation guidelines |
 | [Resources](./Resources/) | Additional tools, platforms, and references | - Google AI Studio for multimodal processing <br> - Google NotebookLM for brainstorming and idea generation <br> - STORM for brainstorming and idea generation <br> - Zotero for enhanced literature management and retrieval-augmented generation (RAG) <br> - Ollama for local multimodal processing <br> - Cursor for vibe coding |
+
+---
 
 ## Contact
 
