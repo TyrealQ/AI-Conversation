@@ -33,7 +33,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 - **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
 - **[Google NotebookLM](https://notebooklm.google/)**: AI-powered note-taking and research assistant.
 - **[Cursor](https://www.cursor.com/en)**: AI-powered code editor.
-- **[Claude Code](https://code.claude.com/docs/en/overview)**: Agentic coding tool.
+- **[Claude Code/Codex](https://code.claude.com/docs/en/overview)**: Agentic coding tool.
 - **[Ollama](https://ollama.com/)**: Local AI model deployment.
 - **[Zotero](https://www.zotero.org/)**: AI-powered Reference management.
 
