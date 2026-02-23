@@ -79,6 +79,7 @@
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase)                 | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents. |
 | [LLM Agents Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)            | A curated collection of research papers focused on LLM-based agents, agentic workflows, architectures, and evaluations. |
 | [Skills](https://skills.sh/) | A open agent skills directory, a platform for the AI agent ecosystem. |
+| [SkillsMP](https://skillsmp.com/) | An agent skills marketplace for discovering and sharing modular skills for Claude Code, Codex CLI, and ChatGPT. |
 | [json.visuals.zip](https://json.visuals.zip/) | JSON Style Templates for ChatGPT by @hckmstrrahul. |
 | [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images?continueFlag=eed10522790b8ac498c1707e1fb62043) | Archive for GPT‑4o image generation prompts and illustrations. |
 
