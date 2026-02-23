@@ -17,6 +17,7 @@
 | [DeepWiki](https://deepwiki.com/)    | AI-Powered Guide to GitHub Repositories                          |
 | [High Scalability](https://highscalability.com/)    | A comprehensive resource dedicated to the art and science of building scalable, high-performance systems                   |
 | [Pandoc](https://pandoc.org/)                                                 | A universal document converter.               |
+| [Obsidian](https://obsidian.md/) | A knowledge base and note-taking app built on local Markdown files. |
 | [Cursor Learn](https://cursor.com/learn) | Cursor free course focuses on developers writing software using AI models and tools. |
 
 ---
