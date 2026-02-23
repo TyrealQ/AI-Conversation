@@ -10,9 +10,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 - [SkillsMP](https://skillsmp.com/) — agent skills marketplace for Claude Code, Codex CLI, and ChatGPT (LLMs & AI Agents > Platforms & Tools)
 - [DeepWiki: Claude Code](https://deepwiki.com/anthropics/claude-code) — technical wiki for Claude Code agentic tool (LLMs & AI Agents > Platforms & Tools)
 - [Obsidian](https://obsidian.md/) — knowledge base and note-taking tool (Development Tools, Resources > Programming Fundamentals)
+- Agentic Workflows section with [q-skills](https://github.com/TyrealQ/q-skills)
 
 ### Changed
-- Updated AI Application Demos table: revised AI Ethics and Resources rows to reflect current contents
+- Updated AI Ethics and Resources descriptions in README to reflect current contents
 
 ## [2026-02-22]
 
