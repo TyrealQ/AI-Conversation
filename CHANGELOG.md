@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### Added
 - [SkillsMP](https://skillsmp.com/) — agent skills marketplace for Claude Code, Codex CLI, and ChatGPT (LLMs & AI Agents > Platforms & Tools)
+- [DeepWiki: Claude Code](https://deepwiki.com/anthropics/claude-code) — technical wiki for Claude Code agentic tool (LLMs & AI Agents > Platforms & Tools)
 
 ## [2026-02-22]
 
