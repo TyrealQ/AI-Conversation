@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-02-24]
+
+### Added
+- [CS146S: The Modern Software Developer](https://themodernsoftware.dev/) — Stanford course on modern software development (Programming Fundamentals > Courses)
+
 ## [2026-02-23]
 
 ### Added
