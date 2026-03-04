@@ -9,6 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 ### Added
 - [From Chatbots to Agents](https://youtu.be/ZdxtN3y6Wpk) tutorial video — Claude Code and agentic workflows (Tutorial Videos)
 
+### Changed
+- Switched all tutorial video thumbnails to YouTube-hosted images for consistency
+
 ## [2026-02-24]
 
 ### Added

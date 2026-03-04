@@ -18,14 +18,14 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 ### NLP101
 <p align="center">
   <a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
-    <img src="https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/QLearning101.png" alt="NLP101">
+    <img src="https://img.youtube.com/vi/waUZ_Khn7ZY/maxresdefault.jpg" alt="NLP101" width="640">
   </a>
 </p>
 
 ### LLM for NLP101
 <p align="center">
   <a href="https://youtu.be/KhFsri1uPv8">
-    <img src="https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/LLM101.png" alt="LLM101">
+    <img src="https://img.youtube.com/vi/KhFsri1uPv8/maxresdefault.jpg" alt="LLM for NLP101" width="640">
   </a>
 </p>
 
