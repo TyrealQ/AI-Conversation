@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-03-04]
+
+### Added
+- [From Chatbots to Agents](https://youtu.be/ZdxtN3y6Wpk) tutorial video — Claude Code and agentic workflows (Tutorial Videos)
+
 ## [2026-02-24]
 
 ### Added

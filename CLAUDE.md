@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Educational repository for the talk "Applied AI in Sport Management" by Tyreal Qian (LSU, yqian@lsu.edu). Contains Jupyter notebooks designed for Google Colab, research PDFs, and curated resource lists targeting sport management researchers learning to integrate AI tools. Two companion YouTube tutorials exist: NLP101 and LLM for NLP101.
+Educational repository for the talk "Applied AI in Sport Management" by Tyreal Qian (LSU, yqian@lsu.edu). Contains Jupyter notebooks designed for Google Colab, research PDFs, and curated resource lists targeting sport management researchers learning to integrate AI tools. Three companion YouTube tutorials exist: From Chatbots to Agents (Claude Code & agentic workflows), NLP101, and LLM for NLP101.
 
 ## Repository Structure
 
