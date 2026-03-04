@@ -8,6 +8,13 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 
 ## Tutorial Videos
 
+### From Chatbots to Agents
+<p align="center">
+  <a href="https://youtu.be/ZdxtN3y6Wpk">
+    <img src="https://img.youtube.com/vi/ZdxtN3y6Wpk/maxresdefault.jpg" alt="From Chatbots to Agents" width="640">
+  </a>
+</p>
+
 ### NLP101
 <p align="center">
   <a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
@@ -58,4 +65,4 @@ For questions, please reach out through:
 - yqian@lsu.edu
 
 ---
-Last updated: February, 2026
+Last updated: March, 2026
