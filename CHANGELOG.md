@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### Changed
 - Switched all tutorial video thumbnails to YouTube-hosted images for consistency
+- Linked Agentic Workflows section name to q-skills repo and simplified key features
 
 ## [2026-02-24]
 
