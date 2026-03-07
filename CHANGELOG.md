@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-03-06]
+
+### Changed
+- Merged `Resources/README.md` into main README as the **Learning Journey** section
+- Renamed **Tutorial Videos** → **Tutorials**
+- Renamed **Tools & Applications** → **Demos & Tools**
+
+### Removed
+- `Resources/` folder — content now lives in the main README
+
 ## [2026-03-04]
 
 ### Added
