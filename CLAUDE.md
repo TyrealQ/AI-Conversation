@@ -13,10 +13,12 @@ Basic-NLP/Basic_NLP.ipynb          — Sentiment analysis, NER, summarization, t
 Basic-Multimodal/Basic_Multimodal.ipynb — Image classification, speech recognition
 LLM-Implementation/LLM_Implementation.ipynb — OpenAI API: ABSA, TGL classification, Scholar extraction
 AI-Ethics/                         — 8 research PDFs on hallucinations, bias, privacy, trust
-Resources/README.md                — Curated links organized by learning journey:
-                                     Programming Fundamentals → AI & ML Foundations →
-                                     LLMs & AI Agents → Research Tools → Reference Materials →
-                                     Teaching & Learning
+README.md                          — Main README with three sections:
+                                     Tutorials → Demos & Tools → Learning Journey
+                                     (Learning Journey: Programming Fundamentals →
+                                     AI & ML Foundations → LLMs & AI Agents →
+                                     Research Tools → Reference Materials →
+                                     Teaching & Learning)
 ```
 
 Each directory has its own README.md describing that section.
