@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-03-08]
+
+### Changed
+- Renamed **Demos & Tools** → **Hands-On Portfolio**
+- Left-aligned tutorial video thumbnails (removed center wrappers)
+
+### Removed
+- **Development Tools** subsection — overlapped with Learning Journey resources
+- **AI Application Demos** sub-header — redundant as the only content in the section
+
 ## [2026-03-06]
 
 ### Changed

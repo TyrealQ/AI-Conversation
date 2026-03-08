@@ -14,7 +14,7 @@ Basic-Multimodal/Basic_Multimodal.ipynb — Image classification, speech recogni
 LLM-Implementation/LLM_Implementation.ipynb — OpenAI API: ABSA, TGL classification, Scholar extraction
 AI-Ethics/                         — 8 research PDFs on hallucinations, bias, privacy, trust
 README.md                          — Main README with three sections:
-                                     Tutorials → Demos & Tools → Learning Journey
+                                     Tutorials → Hands-On Portfolio → Learning Journey
                                      (Learning Journey: Programming Fundamentals →
                                      AI & ML Foundations → LLMs & AI Agents →
                                      Research Tools → Reference Materials →

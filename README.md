@@ -9,43 +9,23 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 ## Tutorials
 
 ### From Chatbots to Agents
-<p align="center">
-  <a href="https://youtu.be/ZdxtN3y6Wpk">
-    <img src="https://img.youtube.com/vi/ZdxtN3y6Wpk/maxresdefault.jpg" alt="From Chatbots to Agents" width="640">
-  </a>
-</p>
+<a href="https://youtu.be/ZdxtN3y6Wpk">
+  <img src="https://img.youtube.com/vi/ZdxtN3y6Wpk/maxresdefault.jpg" alt="From Chatbots to Agents" width="640">
+</a>
 
 ### NLP101
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
-    <img src="https://img.youtube.com/vi/waUZ_Khn7ZY/maxresdefault.jpg" alt="NLP101" width="640">
-  </a>
-</p>
+<a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
+  <img src="https://img.youtube.com/vi/waUZ_Khn7ZY/maxresdefault.jpg" alt="NLP101" width="640">
+</a>
 
 ### LLM for NLP101
-<p align="center">
-  <a href="https://youtu.be/KhFsri1uPv8">
-    <img src="https://img.youtube.com/vi/KhFsri1uPv8/maxresdefault.jpg" alt="LLM for NLP101" width="640">
-  </a>
-</p>
+<a href="https://youtu.be/KhFsri1uPv8">
+  <img src="https://img.youtube.com/vi/KhFsri1uPv8/maxresdefault.jpg" alt="LLM for NLP101" width="640">
+</a>
 
 ---
 
-## Demos & Tools
-
-### Development Tools
-- **[GitHub](https://github.com/)**: Collaboration and version control platform.
-- **[Hugging Face](https://huggingface.co/)**: Model hub and deployment platform.
-- **[Google AI Studio](https://aistudio.google.com/welcome)**: Web-based platform for developing generative AI applications.
-- **[Google Colab](https://colab.google/)**: Cloud-based Python notebook environment.
-- **[Google NotebookLM](https://notebooklm.google/)**: AI-powered note-taking and research assistant.
-- **[Cursor](https://www.cursor.com/en)**: AI-powered code editor.
-- **[Claude Code/Codex](https://code.claude.com/docs/en/overview)**: Agentic coding tool.
-- **[Ollama](https://ollama.com/)**: Local AI model deployment.
-- **[Obsidian](https://obsidian.md/)**: Knowledge base and note-taking with Markdown.
-- **[Zotero](https://www.zotero.org/)**: AI-powered Reference management.
-
-### AI Application Demos
+## Hands-On Portfolio
 
 | Section | Description | Key Features |
 |---------|------------|--------------|
