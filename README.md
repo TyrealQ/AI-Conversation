@@ -13,14 +13,14 @@ This repository contains resources for the talk "Applied AI in Sport Management,
   <img src="https://img.youtube.com/vi/ZdxtN3y6Wpk/maxresdefault.jpg" alt="From Chatbots to Agents" width="640">
 </a>
 
-### NLP101
-<a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
-  <img src="https://img.youtube.com/vi/waUZ_Khn7ZY/maxresdefault.jpg" alt="NLP101" width="640">
-</a>
-
 ### LLM for NLP101
 <a href="https://youtu.be/KhFsri1uPv8">
   <img src="https://img.youtube.com/vi/KhFsri1uPv8/maxresdefault.jpg" alt="LLM for NLP101" width="640">
+</a>
+
+### NLP101
+<a href="https://www.youtube.com/watch?v=waUZ_Khn7ZY">
+  <img src="https://img.youtube.com/vi/waUZ_Khn7ZY/maxresdefault.jpg" alt="NLP101" width="640">
 </a>
 
 ---

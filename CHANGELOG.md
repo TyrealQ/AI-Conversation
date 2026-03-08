@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 ### Changed
 - Renamed **Demos & Tools** → **Hands-On Portfolio**
 - Left-aligned tutorial video thumbnails (removed center wrappers)
+- Reordered tutorials: LLM for NLP101 now appears before NLP101
 
 ### Removed
 - **Development Tools** subsection — overlapped with Learning Journey resources
