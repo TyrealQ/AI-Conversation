@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ## [2026-03-08]
 
+### Added
+- [MiroFish](https://github.com/666ghj/MiroFish) — multi-agent simulation engine (LLMs & AI Agents > Platforms & Tools)
+
 ### Changed
 - Renamed **Demos & Tools** → **Hands-On Portfolio**
 - Left-aligned tutorial video thumbnails (removed center wrappers)

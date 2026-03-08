@@ -122,6 +122,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [json.visuals.zip](https://json.visuals.zip/) | JSON Style Templates for ChatGPT by @hckmstrrahul. |
 | [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images?continueFlag=eed10522790b8ac498c1707e1fb62043) | Archive for GPT‑4o image generation prompts and illustrations. |
 | [DeepWiki: Claude Code](https://deepwiki.com/anthropics/claude-code) | A comprehensive technical wiki documenting Claude Code as an agentic coding tool and reusable agent system. |
+| [MiroFish](https://github.com/666ghj/MiroFish) | A multi-agent simulation engine that constructs parallel digital worlds to forecast outcomes using intelligent agents with independent personalities and memories. |
 
 #### Guides & Articles
 | Name                                                                                                                    | Description                                                                                                       |
