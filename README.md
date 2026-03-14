@@ -108,6 +108,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [Foundational Researcher Learning Plan](https://explore.skillbuilder.aws/learn/learning-plans/2387/foundational-researcher-learning-plan) | A beginner-friendly guide from Amazon exploring research optimization using AWS services. |
 | [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) | Microsoft's open-source curriculum designed to teach the concepts and fundamentals of the Model Context Protocol (MCP). |
 | [MCP Course](huggingface.co/learn/mcp-course) | Hugging Face free course designed for understanding, using, and building applications with MCP. |
+| [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) | A 12-session progressive course building a Claude Code-like AI agent from scratch, covering the agent loop, planning, persistence, and multi-agent collaboration. |
 
 #### Platforms & Tools
 | Name                                                                               | Description                                                                                             |

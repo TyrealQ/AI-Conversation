@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-03-13]
+
+### Added
+- [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) — 12-session course building a Claude Code-like agent from scratch (LLMs & AI Agents > Courses)
+
 ## [2026-03-08]
 
 ### Added
