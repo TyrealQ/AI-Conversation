@@ -182,6 +182,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [Maarten Grootendorst](https://www.youtube.com/@MaartenGrootendorst) | AI researcher covering NLP, topic modeling, and machine learning techniques.                     |
 | [StatQuest](https://www.youtube.com/@statquest)    | Josh Starmer's channel making statistics and machine learning easy with clear explanations.      |
 | [Jim Fowler](https://www.youtube.com/@kisonecat)  | Jim Fowler's channel covering down-to-earth Calculus 101.  |
+| [Lenny's Podcast](https://www.youtube.com/@LennysPodcast) | Lenny Rachitsky's podcast featuring interviews on product management, growth, and building products. |
 
 ---
 

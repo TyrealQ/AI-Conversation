@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-03-20]
+
+### Added
+- [Lenny's Podcast](https://www.youtube.com/@LennysPodcast) — product management and growth podcast (YouTube Channels)
+
 ## [2026-03-13]
 
 ### Added
