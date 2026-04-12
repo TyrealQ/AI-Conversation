@@ -124,6 +124,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images?continueFlag=eed10522790b8ac498c1707e1fb62043) | Archive for GPT‑4o image generation prompts and illustrations. |
 | [DeepWiki: Claude Code](https://deepwiki.com/anthropics/claude-code) | A comprehensive technical wiki documenting Claude Code as an agentic coding tool and reusable agent system. |
 | [MiroFish](https://github.com/666ghj/MiroFish) | A multi-agent simulation engine that constructs parallel digital worlds to forecast outcomes using intelligent agents with independent personalities and memories. |
+| [Hermes Agent: LLM Wiki Skill](https://github.com/NousResearch/hermes-agent/blob/main/skills/research/llm-wiki/SKILL.md) | A Hermes Agent skill implementing Karpathy's LLM Wiki pattern, a persistent interlinked markdown knowledge base that compiles knowledge once as an alternative to traditional RAG. |
 
 #### Guides & Articles
 | Name                                                                                                                    | Description                                                                                                       |
@@ -139,6 +140,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en) | A 33-page technical manual released by Anthropic to help developers and teams build "Skills." |
 | [The Lenny Skills Database](https://refoundai.com/lenny-skills/) | A specialized skills archive that transforms insights from Lenny's Podcast into a searchable, actionable library for product managers and growth experts. |
 | [The AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e) | How Notebook LM and Manus Al Help Flip Sites, Build Brands, and Wow Clients—Fast. |
+| [Obsidian AI Orange Book](https://github.com/alchaincyf/obsidian-ai-orange-book) | A guidebook on pairing Obsidian with Claude Code to rebuild a "second brain" using AI (橙皮书系列). |
 
 ### Research Tools & Platforms
 
@@ -193,4 +195,4 @@ For questions, please reach out through:
 - yqian@lsu.edu
 
 ---
-Last updated: March, 2026
+Last updated: April, 2026

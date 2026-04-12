@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [2026-04-12]
+
+### Added
+- [Hermes Agent: LLM Wiki Skill](https://github.com/NousResearch/hermes-agent/blob/main/skills/research/llm-wiki/SKILL.md) — Karpathy's LLM Wiki pattern as a Hermes Agent skill (LLMs & AI Agents > Platforms & Tools)
+- [Obsidian AI Orange Book](https://github.com/alchaincyf/obsidian-ai-orange-book) — guidebook on pairing Obsidian with Claude Code to rebuild a second brain (LLMs & AI Agents > Guides & Articles)
+
 ## [2026-03-20]
 
 ### Added
