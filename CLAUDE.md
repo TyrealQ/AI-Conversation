@@ -76,3 +76,7 @@ All Basic-NLP and Basic-Multimodal tasks use `transformers.pipeline()` with pre-
 Noted in notebook cells as "Next" steps:
 - Fine-tune a text classification model (Basic-NLP)
 - Develop a custom multi-agent system (LLM-Implementation)
+
+## Repository Conventions
+
+**Line endings**: All text files use LF, enforced via `.gitattributes` (`* text=auto eol=lf`). The repo was originally maintained on Windows and migrated to macOS; legacy CRLF endings were normalized in May 2026. When working on Windows, leave Git's `core.autocrlf` unset (or `false`) so `.gitattributes` controls the conversion.

@@ -1,0 +1,11 @@
+# Normalize all text files to LF in the repository
+* text=auto eol=lf
+
+# Explicit text types
+*.md     text eol=lf
+*.ipynb  text eol=lf
+*.json   text eol=lf
+LICENSE  text eol=lf
+
+# Binary
+*.pdf    binary
