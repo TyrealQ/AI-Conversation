@@ -193,7 +193,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 
 For questions, please reach out through:
 - [GitHub Discussions](https://github.com/TyrealQ/AI-Conversation/discussions)
-- yqian@lsu.edu
+- tyqian@iu.edu
 
 ---
 Last updated: May, 2026
