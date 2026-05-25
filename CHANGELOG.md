@@ -6,10 +6,6 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - [Papers with Code](https://paperswithcode.co/) — hub linking ML papers to code, datasets, and benchmark leaderboards (Research Tools & Platforms)
-- `.gitattributes` enforcing LF line endings across all text files
-
-### Changed
-- Normalized all text files (READMEs, notebooks, LICENSE, CLAUDE.md) to LF line endings after migrating maintenance from Windows to macOS
 
 ## [2026-04-12]
 
