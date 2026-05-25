@@ -153,6 +153,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [AI for Grant Writing](https://github.com/eseckel/ai-for-grant-writing)                                                 | A curated collection of AI-driven tools and resources designed to enhance grant writing efficiency and effectiveness. |
 | [AI-Draw-Nexus](https://ai-draw-nexus.aizhi.site/) | An open-source project and a broader ecosystem of AI-integrated drawing tools. |
 | [Politics in the US Workplace](https://politicsatwork.org/) | A research-driven platform and database focused on the role of partisanship in the American workplace. |
+| [Papers with Code](https://paperswithcode.co/) | A free resource hub linking machine learning papers to their code implementations, datasets, and benchmark leaderboards. |
 
 ### Reference Materials
 

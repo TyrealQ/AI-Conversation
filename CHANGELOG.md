@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2026-05-24]
+
+### Added
+- [Papers with Code](https://paperswithcode.co/) — hub linking ML papers to code, datasets, and benchmark leaderboards (Research Tools & Platforms)
+
 ## [2026-04-12]
 
 ### Added
