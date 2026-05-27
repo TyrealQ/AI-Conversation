@@ -154,6 +154,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [AI-Draw-Nexus](https://ai-draw-nexus.aizhi.site/) | An open-source project and a broader ecosystem of AI-integrated drawing tools. |
 | [Politics in the US Workplace](https://politicsatwork.org/) | A research-driven platform and database focused on the role of partisanship in the American workplace. |
 | [Papers with Code](https://paperswithcode.co/) | A free resource hub linking machine learning papers to their code implementations, datasets, and benchmark leaderboards. |
+| [Digitally Accountable Public Representation (DAPR)](https://www.nature.com/articles/s41597-025-05857-1) | A Scientific Data dataset tracking online communication by U.S. federal, state, and local elected officials on X/Twitter and Facebook (2020-2024), covering 28,834 officials with weekly aggregated posting volumes, engagement metrics, and content trends. |
 
 ### Reference Materials
 

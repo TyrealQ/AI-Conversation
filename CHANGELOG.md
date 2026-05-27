@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2026-05-27]
+
+### Added
+- [Digitally Accountable Public Representation (DAPR)](https://www.nature.com/articles/s41597-025-05857-1) — Scientific Data dataset of online communication by U.S. elected officials (Research Tools & Platforms)
+
 ## [2026-05-24]
 
 ### Added
