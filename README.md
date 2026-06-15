@@ -125,6 +125,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [DeepWiki: Claude Code](https://deepwiki.com/anthropics/claude-code) | A comprehensive technical wiki documenting Claude Code as an agentic coding tool and reusable agent system. |
 | [MiroFish](https://github.com/666ghj/MiroFish) | A multi-agent simulation engine that constructs parallel digital worlds to forecast outcomes using intelligent agents with independent personalities and memories. |
 | [Hermes Agent: LLM Wiki Skill](https://github.com/NousResearch/hermes-agent/blob/main/skills/research/llm-wiki/SKILL.md) | A Hermes Agent skill implementing Karpathy's LLM Wiki pattern, a persistent interlinked markdown knowledge base that compiles knowledge once as an alternative to traditional RAG. |
+| [Illustrated Agent Skills](https://github.com/JimLiu/Illustrated-Agent-Skills) | Companion repository for the book "Illustrated Skill — AI Efficiency Practical Guide," providing skill templates, ready-to-use agent skills, code examples, and sample data for building AI agent workflows. |
 
 #### Guides & Articles
 | Name                                                                                                                    | Description                                                                                                       |
@@ -197,4 +198,4 @@ For questions, please reach out through:
 - tyqian@iu.edu
 
 ---
-Last updated: May, 2026
+Last updated: June, 2026

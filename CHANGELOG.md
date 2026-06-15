@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2026-06-15]
+
+### Added
+- [Illustrated Agent Skills](https://github.com/JimLiu/Illustrated-Agent-Skills) — companion repo of skill templates and ready-to-use agent skills for the book "Illustrated Skill" (LLMs & AI Agents > Platforms & Tools)
+
 ## [2026-05-27]
 
 ### Added
