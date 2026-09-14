@@ -7,6 +7,9 @@ All notable changes to this project will be documented in this file.
 ### Added
 - [Build a Multi-Agent System (Hands On AI)](https://www.youtube.com/watch?v=rHtRWyxVQps) — Google Cloud Tech video on multi-agent architecture with ADK and MCP (LLMs & AI Agents > Guides & Articles)
 
+### Fixed
+- Added the missing `https://` scheme to the OpenAI Academy, LLM Resource Calculator, and MCP Course links, which had been rendering as relative paths and returning 404 on GitHub
+
 ## [2026-06-15]
 
 ### Added

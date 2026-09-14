@@ -82,7 +82,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | [Google Skills](https://www.skills.google/)                                                  | A Google platform that provides free training and certifications.        |
 | [LiveBench](https://livebench.ai/?continueFlag=78d85bba1bf40a18f8e8849863f42da2#/) | A platform providing live benchmarking and evaluation of AI models.                                     |
-| [LLM Resource Calculator](apxml.com/tools/vram-calculator)| LLM Inference & Fine-tuning VRAM Calculator. |
+| [LLM Resource Calculator](https://apxml.com/tools/vram-calculator)| LLM Inference & Fine-tuning VRAM Calculator. |
 | [Mistral OCR](https://mistral.ai/news/mistral-ocr?continueFlag=8bbecbaa2fe3ab18c2ed573156ba5d02) | An OCR model by Mistral AI designed to extract text from images and scanned documents and convert into markdown. |
 | [GAI Progress](https://progress.openai.com/) | A webpage highlighting the evolution of AI by showcasing responses from OpenAI models (GPT-1, GPT-2, text-davinci-001, gpt-4-0314, and gpt-5) to different prompts. |
 
@@ -107,13 +107,13 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [Building RAG Agents with LLMs](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/course/)                          | A course on building Retrieval-Augmented Generation (RAG) agents using Large Language Models (LLMs).         |
 | [Foundational Researcher Learning Plan](https://explore.skillbuilder.aws/learn/learning-plans/2387/foundational-researcher-learning-plan) | A beginner-friendly guide from Amazon exploring research optimization using AWS services. |
 | [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) | Microsoft's open-source curriculum designed to teach the concepts and fundamentals of the Model Context Protocol (MCP). |
-| [MCP Course](huggingface.co/learn/mcp-course) | Hugging Face free course designed for understanding, using, and building applications with MCP. |
+| [MCP Course](https://huggingface.co/learn/mcp-course) | Hugging Face free course designed for understanding, using, and building applications with MCP. |
 | [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) | A 12-session progressive course building a Claude Code-like AI agent from scratch, covering the agent loop, planning, persistence, and multi-agent collaboration. |
 
 #### Platforms & Tools
 | Name                                                                               | Description                                                                                             |
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [OpenAI Academy](academy.openai.com)                                               | A platform created by OpenAI for artificial intelligence-related knowledge and skills.  |
+| [OpenAI Academy](https://academy.openai.com)                                               | A platform created by OpenAI for artificial intelligence-related knowledge and skills.  |
 | [Build Hours](https://github.com/openai/build-hours) | Monthly events by OpenAI designed for startup founders and developers to explore specific ideas for leveraging OpenAI's API and models across diverse topics. |
 | [Educational Resources on LLMs](https://parlance-labs.com/education/)              | A collection of educational resources on Large Language Models (LLMs), including RAG, evaluation, and fine-tuning. |
 | [AI Agents and Agentic Workflows](https://huggingface.co/Kseniase)                 | Articles by Ksenia Se on Hugging Face, delving into agentic workflows and the foundational elements of agents. |
