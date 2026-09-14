@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2026-09-14]
+
+### Added
+- [Build a Multi-Agent System (Hands On AI)](https://www.youtube.com/watch?v=rHtRWyxVQps) — Google Cloud Tech video on multi-agent architecture with ADK and MCP (LLMs & AI Agents > Guides & Articles)
+
 ## [2026-06-15]
 
 ### Added

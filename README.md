@@ -142,6 +142,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [The Lenny Skills Database](https://refoundai.com/lenny-skills/) | A specialized skills archive that transforms insights from Lenny's Podcast into a searchable, actionable library for product managers and growth experts. |
 | [The AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e) | How Notebook LM and Manus Al Help Flip Sites, Build Brands, and Wow Clients—Fast. |
 | [Obsidian AI Orange Book](https://github.com/alchaincyf/obsidian-ai-orange-book) | A guidebook on pairing Obsidian with Claude Code to rebuild a "second brain" using AI (橙皮书系列). |
+| [Build a Multi-Agent System (Hands On AI)](https://www.youtube.com/watch?v=rHtRWyxVQps) | A Google Cloud Tech video walking through a multi-agent system built with the Agent Development Kit (ADK) and Model Context Protocol (MCP), covering tool exposure through an MCP server, workflow agents, and orchestration across agents. |
 
 ### Research Tools & Platforms
 
@@ -198,4 +199,4 @@ For questions, please reach out through:
 - tyqian@iu.edu
 
 ---
-Last updated: June, 2026
+Last updated: September, 2026
