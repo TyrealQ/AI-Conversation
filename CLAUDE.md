@@ -13,14 +13,17 @@ Basic-NLP/Basic_NLP.ipynb          — Sentiment analysis, NER, summarization, t
 Basic-Multimodal/Basic_Multimodal.ipynb — Image classification, speech recognition
 LLM-Implementation/LLM_Implementation.ipynb — OpenAI API: ABSA, TGL classification, Scholar extraction
 AI-Ethics/                         — 8 research PDFs on hallucinations, bias, privacy, trust
-README.md                          — Main README with three sections:
-                                     Tutorials → Hands-On Portfolio → Learning Journey
+README.md                          — Overview → Tutorials → Hands-On Portfolio →
+                                     Learning Journey → Contact
                                      (Learning Journey: Programming Fundamentals →
                                      AI & ML Foundations → LLMs & AI Agents →
-                                     Research Tools → Reference Materials →
+                                     Research Tools & Platforms → Reference Materials →
                                      Teaching & Learning)
+CHANGELOG.md                       — Newest entry first; drives the README footer month
+.claude/skills/intake/SKILL.md     — /intake workflow for filing new material
 .claude/hooks/repo-dashboard.sh    — SessionStart dashboard (see Repository Conventions)
 .claude/settings.json              — wires the SessionStart hook
+.claude/settings.local.json        — private permission allowlist (not committed)
 ```
 
 Each directory has its own README.md describing that section.
@@ -29,58 +32,33 @@ Each directory has its own README.md describing that section.
 
 **Target environment**: Google Colab (Python 3.11, Linux). Notebooks use `!pip install` inline — no `requirements.txt` or `pyproject.toml` exists.
 
-**Core dependencies by notebook**:
-- Basic-NLP: `transformers`, `datasets`, `scikit-learn`, `vaderSentiment`, `tqdm`
-- Basic-Multimodal: `transformers`, `PIL`, `pandas`, `requests`
-- LLM-Implementation: `openai`, `datasets`, `tqdm`, `pandas`, `ipywidgets`
+**No tooling**: there is no build, test, lint, or CI configuration and no `.gitignore`. Nothing runs locally; verification means opening the notebook in Colab.
 
 **Local file references**: Notebooks reference Google Drive paths (`/content/drive/MyDrive/...`) for images, audio files, Excel data, and output files. These paths won't resolve outside Colab with a mounted Drive.
 
 ## Code Patterns
 
-### Hugging Face Pipeline API
-All Basic-NLP and Basic-Multimodal tasks use `transformers.pipeline()` with pre-trained models:
-- Sentiment: `cardiffnlp/twitter-roberta-base-sentiment-latest`, `clapAI/modernBERT-base-multilingual-sentiment`
-- NER: `xlm-roberta-large-finetuned-conll03-english` with `aggregation_strategy="simple"`
-- Summarization: `google/pegasus-xsum` with beam search (`num_beams=4`)
-- Image classification: `nateraw/baseball-stadium-foods`
-- Speech recognition: `openai/whisper-large-v3-turbo` with `return_timestamps=True`
-
 ### OpenAI API (LLM-Implementation)
-- Client initialized via `OpenAI(api_key=userdata.get('GPT_KEY'))` from Colab secrets
+- The Colab secret is named `GPT_KEY`; the notebook reads it with `userdata.get('GPT_KEY')`
 - GPT-4o used for TGL classification with `temperature=0`, `response_format={"type": "json_object"}`
 - GPT-4o-mini used for Scholar extraction with `response_format={"type": "text"}` (then manually strip markdown fences)
-- VADER used as a lexicon-based baseline alongside transformer models
-
-### Evaluation Pattern (Basic-NLP)
-- Dataset: `tyrealqian/Stadium_RoBERTa_eval` — 500 college football stadium reviews, labels 0/1/2 (negative/neutral/positive)
-- Metrics via `sklearn.metrics`: accuracy, precision, recall, F1 (weighted average)
-- Batch processing with `tqdm` progress bars
-
-### ScholarAnalyzer Class (LLM-Implementation)
-- Interactive widget-based input (`ipywidgets.Textarea`)
-- Extracts publication metadata via GPT-4o-mini → JSON
-- Matches against ABDC journal rankings loaded from a local markdown table
-- Outputs ranked analysis to markdown file
-
-## Hugging Face Datasets
-
-- `tyrealqian/Stadium_RoBERTa_eval` — 500-sample test set (stadium reviews with sentiment labels)
-- `tyrealqian/TGL_content_classification` — YouTube video metadata for TGL relevance classification
 
 ## Related Repositories
 
 - [TyrealQ/Experience-is-all-you-need_SMR](https://github.com/TyrealQ/Experience-is-all-you-need_SMR) — ABSA for game day experience (referenced from LLM-Implementation)
 - [TyrealQ/Twitter-Perceptions-Esports-2023-Asian-Games_HICSS-58](https://github.com/TyrealQ/Twitter-Perceptions-Esports-2023-Asian-Games_HICSS-58) — BERTopic modeling demo (referenced from Basic-NLP topic modeling section)
-
-## Planned Extensions
-
-Noted in notebook cells as "Next" steps:
-- Fine-tune a text classification model (Basic-NLP)
-- Develop a custom multi-agent system (LLM-Implementation)
+- [TyrealQ/q-skills](https://github.com/TyrealQ/q-skills) — Agentic workflows, linked from the Hands-On Portfolio
 
 ## Repository Conventions
 
-**Session dashboard**: `.claude/hooks/repo-dashboard.sh` runs at session start and prints repo state (notebook and PDF counts, README link and section tallies, the README footer date, the newest CHANGELOG entry, and uncommitted file count). It is read-only. It also raises alerts for markdown links written without a scheme (these render as relative paths and return 404 on GitHub), the same URL listed twice in README.md, a README footer month that disagrees with the newest CHANGELOG date, and commits not pushed to origin. Add a check by extending `render_alerts` in that script.
+**Notebook outputs are committed.** `Basic_Multimodal.ipynb` is about 1.5 MB, mostly base64 image output, so notebook diffs are very large. Do not strip outputs to shrink a diff without asking; the rendered outputs are the teaching material.
+
+**README resource links.** Every resource is a table row beginning `| [`; the dashboard counts rows by that pattern, so a link written any other way silently drops out of the tally. Links must carry an explicit `https://` scheme or GitHub renders them as relative paths and they return 404.
+
+**AI-Ethics filenames.** PDFs follow `1 Author et al. Year_Title.pdf`. The leading `1 ` is part of the convention, and the spaces mean the paths need quoting in shell commands.
+
+**Session dashboard**: `.claude/hooks/repo-dashboard.sh` runs at session start and prints repo state (notebook and PDF counts, README link and section tallies, the README footer date, the newest CHANGELOG entry, and uncommitted file count). It is read-only. It also raises alerts for markdown links written without a scheme, the same URL listed twice in README.md, a README footer month that disagrees with the newest CHANGELOG date, and commits not pushed to origin. Add a check by extending `render_alerts` in that script. It needs `jq` and uses the BSD `date -j -f` form, so it works on macOS and degrades silently elsewhere.
 
 **Line endings**: All text files use LF, enforced via `.gitattributes` (`* text=auto eol=lf`). The repo was originally maintained on Windows and migrated to macOS; legacy CRLF endings were normalized in May 2026. When working on Windows, leave Git's `core.autocrlf` unset (or `false`) so `.gitattributes` controls the conversion.
+
+**Adding new material**: use the `/intake` skill, which files the item, updates README, CHANGELOG, and the footer month together, and runs the dashboard checks before committing.
