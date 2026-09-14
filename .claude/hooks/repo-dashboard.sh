@@ -35,6 +35,21 @@ log_entry=$(awk '/^## \[/{n++} n==1&&/^- /{print substr($0,3); exit}' CHANGELOG.
             | sed -E 's/\[([^]]*)\]\([^)]*\)/\1/g' \
             | awk '{print (length($0)>72) ? substr($0,1,71) "\xe2\x80\xa6" : $0}')
 
+# --- project skills -----------------------------------------------------
+# Discovered rather than hardcoded, so a skill added later shows up here
+# without editing this script. Each line is the slash command plus the
+# skill's own description, so a session knows the workflow exists before
+# redoing it by hand.
+skills=""
+for skill_file in .claude/skills/*/SKILL.md; do
+  [ -f "$skill_file" ] || continue
+  skill_name=$(basename "$(dirname "$skill_file")")
+  skill_desc=$(sed -n 's/^description: *//p' "$skill_file" | head -1 \
+               | awk '{print (length($0)>58) ? substr($0,1,57) "\xe2\x80\xa6" : $0}')
+  skills="${skills}  /${skill_name}${skill_desc:+ — ${skill_desc}}"$'\n'
+done
+skills=${skills%$'\n'}
+
 # --- git ----------------------------------------------------------------
 branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
 dirty=$(git status --porcelain 2>/dev/null | wc -l | tr -d ' ')
@@ -85,6 +100,7 @@ render_alerts() {
   [ -n "$footer" ] && echo "  README footer: ${footer}"
   [ -n "$log_date" ] && echo "  Last changelog: ${log_date}${log_age:+ (${log_age}d ago)}${log_entry:+ — ${log_entry}}"
   [ "$dirty" -gt 0 ] && echo "  Uncommitted: ${dirty} file(s)"
+  [ -n "$skills" ] && printf '%s\n' "$skills"
   alerts=$(render_alerts)
   [ -n "$alerts" ] && printf '%s\n' "$alerts"
 } > /tmp/.repo-dashboard.$$ 2>/dev/null
