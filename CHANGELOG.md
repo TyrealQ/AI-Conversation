@@ -10,6 +10,9 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 - Added the missing `https://` scheme to the OpenAI Academy, LLM Resource Calculator, and MCP Course links, which had been rendering as relative paths and returning 404 on GitHub
 
+### Changed
+- `AI-Ethics/README.md` now lists the eight papers in the folder, each linked with its authors and a one-line summary of what it shows
+
 ## [2026-06-15]
 
 ### Added
