@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR/.claude/hooks/repo-dashboard.sh\"",
+            "timeout": 15,
+            "statusMessage": "Reading repo state..."
+          }
+        ]
+      }
+    ]
+  }
+}

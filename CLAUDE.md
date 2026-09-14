@@ -19,6 +19,8 @@ README.md                          — Main README with three sections:
                                      AI & ML Foundations → LLMs & AI Agents →
                                      Research Tools → Reference Materials →
                                      Teaching & Learning)
+.claude/hooks/repo-dashboard.sh    — SessionStart dashboard (see Repository Conventions)
+.claude/settings.json              — wires the SessionStart hook
 ```
 
 Each directory has its own README.md describing that section.
@@ -78,5 +80,7 @@ Noted in notebook cells as "Next" steps:
 - Develop a custom multi-agent system (LLM-Implementation)
 
 ## Repository Conventions
+
+**Session dashboard**: `.claude/hooks/repo-dashboard.sh` runs at session start and prints repo state (notebook and PDF counts, README link and section tallies, the README footer date, the newest CHANGELOG entry, and uncommitted file count). It is read-only. It also raises alerts for markdown links written without a scheme (these render as relative paths and return 404 on GitHub), the same URL listed twice in README.md, a README footer month that disagrees with the newest CHANGELOG date, and commits not pushed to origin. Add a check by extending `render_alerts` in that script.
 
 **Line endings**: All text files use LF, enforced via `.gitattributes` (`* text=auto eol=lf`). The repo was originally maintained on Windows and migrated to macOS; legacy CRLF endings were normalized in May 2026. When working on Windows, leave Git's `core.autocrlf` unset (or `false`) so `.gitattributes` controls the conversion.
