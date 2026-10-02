@@ -109,6 +109,7 @@ This repository contains resources for the talk "Applied AI in Sport Management,
 | [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners) | Microsoft's open-source curriculum designed to teach the concepts and fundamentals of the Model Context Protocol (MCP). |
 | [MCP Course](https://huggingface.co/learn/mcp-course) | Hugging Face free course designed for understanding, using, and building applications with MCP. |
 | [Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code) | A 12-session progressive course building a Claude Code-like AI agent from scratch, covering the agent loop, planning, persistence, and multi-agent collaboration. |
+| [Jev Cookbook](https://github.com/datawhalechina/jev-cookbook) | A Datawhale tutorial in Chinese with eleven chapters of runnable Jupyter notebooks on Jev, TypeSafe AI's System One model that returns typed decisions with calibrated probabilities instead of generated text, covering its question primitives, worked recipes, evaluation, agent integration, and local fine-tuning. |
 
 #### Platforms & Tools
 | Name                                                                               | Description                                                                                             |
@@ -199,4 +200,4 @@ For questions, please reach out through:
 - tyqian@iu.edu
 
 ---
-Last updated: September, 2026
+Last updated: October, 2026

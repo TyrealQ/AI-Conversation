@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2026-10-02]
+
+### Added
+- [Jev Cookbook](https://github.com/datawhalechina/jev-cookbook) — Datawhale's Chinese-language notebook tutorial on Jev, TypeSafe AI's typed-decision model (LLMs & AI Agents > Courses)
+
 ## [2026-09-14]
 
 ### Added
